@@ -9,6 +9,6 @@
     "beginjavascript": "echo 'hello beginjavascript, je suis un script bash !'"
   },
   "devDependencies": {
-    "nodemon": "^2.0.22"
+    "nodemon": "^3.1.10"
   }
 }
